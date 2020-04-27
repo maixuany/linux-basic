@@ -1,0 +1,12 @@
+pwd = print working directory  //cho biet thu muc hien tai la thu muc nao
+ls = list // danh sach file
+ls -a = list all //hien thi ca file bi an
+ls -al = list all list //hien thi tat ca theo tung dong khac nhau
+cd /tmp = temporary //thu muc tmp se mat het du lieu khi tat may
+touch name.txt  //tao file trong thu muc
+mkdir  //tao thu muc
+mv // doi ten file, folder
+cp //copy vd: cp demo1.txt demo2.txt
+cp -r //copy folder  vd: cp -r demo demo1
+top  //xem cac chuong trinh dang chay
+kill -9 ID  //tat chuong trinh dang chay.
